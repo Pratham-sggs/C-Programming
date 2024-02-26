@@ -10,3 +10,4 @@ printf("AND oprator value = %d\n",A );
 printf("XOR oprator value = %d\n",XOR );
 printf("OR oprator value = %d\n",O );
 }
+//........
