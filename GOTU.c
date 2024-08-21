@@ -2,7 +2,7 @@
 int main()
 {
     goto college;
-    printf("Tu Chutiya hai");
+    printf("Tu Chutiya hai...");
     college:
     printf("SGGSIE&T");
 }
