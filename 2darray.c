@@ -2,7 +2,7 @@
 int main()
 {
 int i,j;
-// declaring and Initializing array
+// declaring and Initializing array..........
 int arr[2][2] = {10,20,30,40};
 for (i=0;i<2;i++)
 {
