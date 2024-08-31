@@ -3,6 +3,6 @@ int main()
 {
     goto college;
     printf("Tu Chutiya hai...");
-    college:
+    college: // gotu
     printf("SGGSIE&T");
 }
