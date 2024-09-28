@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main() // pratham
 {
 int N,i,c=0;
 printf("Enter The Number \n");
