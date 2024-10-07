@@ -14,7 +14,7 @@ for(i=1;i<n;i++)
 {
 if(large<a[i])
 {
-large=a[i];
+large=a[i];//...
 }
 }
 printf("large=%d \n",large);
